@@ -1,0 +1,46 @@
+.main{
+    display: flex;
+    width: 90%;
+    margin-left: 05%;
+    margin-right: 05%;
+}
+.lmain{
+    margin-top: 2%;
+    padding-left: 35%;
+    border-top: 2px solid black;
+    padding-bottom: 3%;
+    border-left: 2px solid black;
+}
+.head{
+    width: 30%;
+    text-align: center;
+}
+.rmain{
+    margin-top: 2%;
+    padding-left: 35%;
+    border-top: 2px solid black;
+    padding-bottom: 1% ;
+    border-right: 2px solid black;
+}
+.bag{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.bag>.bag1>img{
+    width: 100%;
+}
+.bag>.bag2>img{
+    width: 100%;
+}
+.bag>.bag3>img{
+    width: 100%;
+}
+.bottoml{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 4%;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
